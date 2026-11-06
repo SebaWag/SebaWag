@@ -10,7 +10,7 @@
 
 ![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-bronze-8B6914?style=flat-square)
 ![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-bronze-8B6914?style=flat-square)
-![2nd place](https://img.shields.io/badge/🥈_2nd_place-BreakingBarriers_CL_·_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![2nd place](https://img.shields.io/badge/🥈_2nd_place-AWS_Breaking_Barriers_Chile_2026-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -24,17 +24,15 @@ I don't open PRs to test the water. **90% of the PRs I open get merged.** Every 
 
 ---
 
-## 🏆 Second place — BreakingBarriers CL Hackathon (AWS)
+## 🥈 Second place — AWS Breaking Barriers Chile 2026
 
-[![2nd place](https://img.shields.io/badge/🥈_SEGUNDO_LUGAR-BreakingBarriers_CL_2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/mauriciovalenzuela742/IntegrAI)
+[![2nd place](https://img.shields.io/badge/🥈_SEGUNDO_LUGAR-AWS_Breaking_Barriers_Chile_2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/mauriciovalenzuela742/IntegrAI)
 
-**IntegrAI** — an early-childhood assessment system built in 48 hours, awarded **2nd place** at the **BreakingBarriers CL** hackathon sponsored by **AWS**.
+**IntegrAI** — an early-childhood assessment system built in 48 hours, awarded **2nd place** at the **AWS Breaking Barriers Chile 2026** hackathon — AWS's global hackathon, in its **first edition in Latin America**.
 
-<!-- TODO: subir el badge oficial a assets/ y descomentar:
 <p align="center">
-  <img src="assets/breakingbarrierscl-2do-lugar.png" width="220" alt="2nd place — BreakingBarriers CL (AWS)">
+  <img src="assets/breakingbarrierscl-2do-lugar.png" width="560" alt="Diploma — 2nd place, AWS Breaking Barriers Chile 2026">
 </p>
--->
 
 It wasn't a prototype that died with the demo. It went to production:
 
